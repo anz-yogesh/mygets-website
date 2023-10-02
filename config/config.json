@@ -1,0 +1,36 @@
+{
+  "site": {
+    "title": "MyGETS Tender Procurement",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "200",
+    "logo_height": "48",
+    "logo_text": "MyGETS"
+  },
+
+  "settings": {
+    "pagination": 4,
+    "summary_length": 200,
+    "blog_folder": "blogs"
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Get Started",
+    "link": "/contact"
+  },
+
+  "params": {
+    "contact_form_action": "",
+    "tag_manager_id": "",
+    "footer_content": "Step into the Future of Tender Management — Experience Efficiency, Transparency, and Security with MyGETS.",
+    "copyright": "All Rights Reserved © MyGETS | Designed and Developed with ❤️ in New Zealand"
+  },
+
+  "metadata": {
+    "meta_author": "MyGETS",
+    "meta_image": "",
+    "meta_description": "A SAAS tender procurement platform"
+  }
+}
